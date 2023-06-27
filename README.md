@@ -3,7 +3,7 @@
 # Практика koro.games
 
 Материалы:
-
+[Игра](https://play.google.com/store/apps/details?id=master.sworded.io)
 [2021.3.14f1](https://unity.com/releases/editor/whats-new/2021.3.14#release-notes)
 
 [https://github.com/koro-games/Sworded-Practice](https://github.com/koro-games/Sworded-Practice)
