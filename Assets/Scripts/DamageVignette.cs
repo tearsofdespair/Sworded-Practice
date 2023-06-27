@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class DamageVignette : MonoBehaviour
 {
-public void Deactivate()
+    public void Deactivate()
     {
         gameObject.SetActive(false);
     }

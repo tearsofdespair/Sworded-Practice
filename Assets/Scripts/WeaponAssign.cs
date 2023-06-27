@@ -45,7 +45,6 @@ public class WeaponAssign : MonoBehaviour
                     }
                 }
             }
-
         }
         else weapon = PlayerPrefs.GetInt("CWeapon");
         if (test < 100) weapon = test;
